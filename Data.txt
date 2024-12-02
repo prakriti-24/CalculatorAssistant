@@ -1,0 +1,484 @@
+The input was : Fahrenheit
+the output was : Celsius
+The result 98.4
+
+The input was : Celsius
+the output was : Kelvin
+The result 273.15
+
+The input was : Meter
+the output was : Centemeter
+The result 100.0
+
+The input was : Centemeter
+the output was : Meter
+The result 1.0
+
+The input was : Feet
+the output was : Meter
+The result 0.9146341463414634
+
+The input was : Feet
+the output was : Inches
+The result 36.00914634146341
+
+The input was : Biga
+the output was : parcentage
+The result 33.0
+
+The input was : kata
+the output was : Biga
+The result 20.0
+
+The input was : Acre
+the output was : kata
+The result 3.03
+
+The input was : Acre
+the output was : Biga
+The result 3.03
+
+The input was : kata
+the output was : parcentage
+The result 33.0
+
+The input was : kata
+the output was : parcentage
+The result 33.0
+
+The input was : Biga
+the output was : Biga
+The result 1.0
+
+The input was : Biga
+the output was : Biga
+The result 1.0
+
+The input was : khata
+the output was : parcentage
+The result 33.0
+
+The input was : Feet
+the output was : Inches
+The result 36.00914634146341
+
+The input was : Inches
+the output was : Feet
+The result 2.999237998475997
+
+The input was : Centemeter
+the output was : Feet
+The result 3.28
+
+The input was : Acre
+the output was : Parcentage
+The result 1.0
+
+The input was : Acre
+the output was : Biga
+The result 3.03
+
+The input was : Acre
+the output was : Khata
+The result 60.6
+
+The input was : Acre
+the output was : Parcentage
+The result 1.0
+
+The input was : Acre
+the output was : Acre
+The result 1.0
+
+The input was : Acre
+the output was : Parcentages
+The result 100.0
+
+The input was : Acre
+the output was : Parcentages
+The result 100.0
+
+The input was : Khata
+the output was : Parcentages
+The result 1.65016501650165
+
+The input was : Acre
+the output was : Biga
+The result 3.03
+
+The input was : Acre
+the output was : Squaremeter
+The result 1.0
+
+The input was : Acre
+the output was : Squaremeter
+The result 1.0
+
+The input was : Acre
+the output was : Squaremeter
+The result 4046.86
+
+The input was : Squaremeter
+the output was : Acre
+The result 2.4710516301527604E-4
+
+The input was : Squaremeter
+the output was : Khata
+The result 0.014974572878725728
+
+The input was : Inches
+the output was : Centemeter
+The result 2.54000508001016
+
+The input was : Meter
+the output was : Inches
+The result 39.37
+
+The input was : Kilometer
+the output was : Meter
+The result 1000.0
+
+The input was : Meter
+the output was : Kilometer
+The result 0.001
+
+The input was : Meter
+the output was : goj
+The result 0.91441111923921
+
+The input was : Meter
+the output was : goj
+The result 1.0936
+
+The input was : Meter
+the output was : Miles
+The result 1.0
+
+The input was : Meter
+the output was : Miles
+The result 1.0
+
+The input was : Miles
+the output was : Kilometer
+The result 0.001
+
+The input was : Miles
+the output was : Kilometer
+The result 0.001
+
+The input was : Miles
+the output was : Kilometer
+The result 0.001
+
+The input was : Meter
+the output was : Goj
+The result 1.0936
+
+The input was : Meter
+the output was : Miles
+The result 1.0
+
+The input was : Meter
+the output was : Miles
+The result 1.0
+
+The input was : Meter
+the output was : Miles
+The result 1.0
+
+The input was : Miles
+the output was : Kilometer
+The result 0.001
+
+The input was : Miles
+the output was : Kilometer
+The result 1.6092693916961698
+
+The input was : Meter
+the output was : Miles
+The result 6.214E-4
+
+The input was : Kilometer
+the output was : Miles
+The result 0.6214000000000001
+
+The input was : Meter
+the output was : Goj
+The result 1.0936
+
+The input was : Meter
+the output was : Centemeter
+The result 200.0
+
+The input was : Gram
+the output was : DesiGram
+The result 10.0
+
+The input was : Kuintal
+the output was : Matricton
+The result 10.0
+
+The input was : Kuintal
+the output was : Matricton
+The result 10.0
+
+The input was : Kuintal
+the output was : Matricton
+The result 0.1
+
+The input was : Matricton
+the output was : Kuintal
+The result 10.0
+
+The input was : Tk
+the output was : Euro
+The result 0.0099
+
+The input was : rupi
+the output was : dollar
+The result 0.015789473684210527
+
+The input was : rupi
+the output was : Euro
+The result 0.013026315789473686
+
+The input was : Euro
+the output was : rupi
+The result 76.76767676767676
+
+The input was : Euro
+the output was : rupi
+The result 86.86868686868685
+
+The input was : riyal
+the output was : Tk
+The result 9.999999999999998
+
+The input was : Inches
+the output was : Meter
+The result 0.025400050800101603
+
+The input was : Khata
+the output was : Biga
+The result 0.9999999999999999
+
+The input was : KiloGram
+the output was : Gram
+The result 1000.0
+
+The input was : Miniute
+the output was : Second
+The result 1.0
+
+The input was : Minitue
+the output was : Second
+The result 3600.0
+
+The input was : Second
+the output was : Second
+The result 8.0
+
+The input was : Hour
+the output was : Day
+The result 1.0
+
+The input was : Day
+the output was : Second
+The result 86400.0
+
+The input was : CubicMeter
+the output was : CubicDeciMeter
+The result 1000.0
+
+The input was : Acre
+the output was : Biga
+The result 69.69
+
+The input was : Acre
+the output was : Biga
+The result 3.03
+
+The input was : Biga
+the output was : Acre
+The result 0.33003300330033003
+
+The input was : Biga
+the output was : Khata
+The result 20.0
+
+The input was : Biga
+the output was : Parcentages
+The result 33.003300330033
+
+The input was : Biga
+the output was : Squaremeter
+The result 1335.5973597359737
+
+The input was : Biga
+the output was : Squaremeter
+The result 1335.5973597359737
+
+The input was : Parcentages
+the output was : Acre
+The result 0.01
+
+The input was : Parcentages
+the output was : Biga
+The result 0.030299999999999997
+
+The input was : Parcentages
+the output was : Biga
+The result 0.030299999999999997
+
+The input was : Parcentages
+the output was : Khata
+The result 0.606
+
+The input was : Parcentages
+the output was : Squaremeter
+The result 40.4686
+
+The input was : Parcentages
+the output was : Acre
+The result 0.01
+
+The input was : Parcentages
+the output was : Biga
+The result 0.030299999999999997
+
+The input was : Parcentages
+the output was : Khata
+The result 0.606
+
+The input was : Parcentages
+the output was : Squaremeter
+The result 40.4686
+
+The input was : Squaremeter
+the output was : Squaremeter
+The result 1.0
+
+The input was : Squaremeter
+the output was : Squaremeter
+The result 1.0
+
+The input was : Squaremeter
+the output was : Acre
+The result 2.4710516301527604E-4
+
+The input was : Squaremeter
+the output was : Biga
+The result 7.487286439362864E-4
+
+The input was : Squaremeter
+the output was : Khata
+The result 0.014974572878725728
+
+The input was : Squaremeter
+the output was : Parcentages
+The result 0.024710516301527603
+
+The input was : Tk
+the output was : Euro
+The result 0.0099
+
+The input was : Tk
+the output was : riyal
+The result 1.0
+
+The input was : Tk
+the output was : Yen
+The result 1.0
+
+The input was : Tk
+the output was : Yen
+The result 1.0
+
+The input was : Tk
+the output was : riyal
+The result 1.0
+
+The input was : riyal
+the output was : Tk
+The result 28.57142857142857
+
+The input was : Tk
+the output was : riyal
+The result 0.035
+
+The input was : Tk
+the output was : Yen
+The result 1.0
+
+The input was : Tk
+the output was : Yen
+The result 0.7633587786259541
+
+The input was : Tk
+the output was : Euro
+The result 0.0099
+
+The input was : Tk
+the output was : dollar
+The result 0.012
+
+The input was : Tk
+the output was : rupi
+The result 0.86
+
+The input was : Tk
+the output was : riyal
+The result 0.035
+
+The input was : Tk
+the output was : riyal
+The result 0.035
+
+The input was : Tk
+the output was : rupi
+The result 0.86
+
+The input was : Tk
+the output was : riyal
+The result 0.035
+
+The input was : Tk
+the output was : Prupee
+The result 0.3787878787878788
+
+The input was : Tk
+the output was : Yen
+The result 0.7633587786259541
+
+The input was : Tk
+the output was : Yen
+The result 0.7633587786259541
+
+The input was : Tk
+the output was : Yen
+The result 0.7633587786259541
+
+The input was : Tk
+the output was : Yen
+The result 0.7633587786259541
+
+The input was : Tk
+the output was : rupi
+The result 86.0
+
+The input was : Tk
+the output was : Euro
+The result 0.9900000000000001
+
+The input was : Tk
+the output was : Euro
+The result 0.9900000000000001
+
+The input was : Acre
+the output was : Parcentages
+The result 100.0
+
+The input was : Gram
+the output was : DekaGram
+The result 1.2
+
